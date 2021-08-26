@@ -4,3 +4,5 @@ First attempt at coding a game using python's pygame library. The game is design
 Ensure you have pygame installed by entering the following command in the command prompt
 'pip install pygame'
 
+
+Additional guide is on it's way.
